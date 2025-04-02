@@ -1,0 +1,11 @@
+python>=3.10
+numba
+numpy
+joblib
+pandas
+openai
+pickle
+datetime
+logging
+ast
+sklearn.metrics
